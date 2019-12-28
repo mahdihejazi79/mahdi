@@ -17,6 +17,7 @@ struct date
 
 struct order
 {
+	char name[N];
 	char foodName[N];
 	struct date d;
 };
