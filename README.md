@@ -1,5 +1,4 @@
 # mahdi
-# Project Title
 
 One Paragraph of project description goes here
 
@@ -20,7 +19,7 @@ Paste Some Code Here!
 
 ## Authors
 
-* **ÙYour Name**- [your github ID](https://github.com/your github id)
+* **mahdi hejazi**- [mahdihejazi79](https://github.com/mahdihejazi79/mahdi github id)
 
 ## License
 
